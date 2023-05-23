@@ -1,6 +1,11 @@
 function toCloset() {
-    document.location.href = './closet.html'
+    document.location.href = './closet page.html'
 }//홈버튼 클릭 toCloset 함수는 해당 주소로 이동 mainpage에서 div 영역 클릭시 ./closet.html로 이동
+
+function todetailpage(){
+    document.location.href = './detailpage.html'
+}//closetpage에서 해당 품목 클릭시 자세하게 설명해주는 detail page로 이동
+
 // 카드 추가
 // 추가할 카드의 정보 배열
 const cardData = [
