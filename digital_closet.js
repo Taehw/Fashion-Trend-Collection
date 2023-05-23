@@ -107,6 +107,12 @@ function addCard(card) {
     cardElem.appendChild(imgElem);
     cardElem.appendChild(cardBodyElem);
 
+    // closet page에서 각 이미지 클리식 detailpage로 이동하는 코드
+    cardElem.addEventListener("click", function() {
+        
+        document.location.href = './detailpage.html';
+    });
+
     // 카드 요소를 부모 요소에 추가
     scrollWrap.appendChild(cardElem);
 }
