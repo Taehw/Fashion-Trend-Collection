@@ -1,0 +1,98 @@
+@import "./css/reset.css";
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container{
+    border: 10px solid #ECE6C2;
+    width: 500px;
+    height: 640px;
+    margin:auto;
+}
+
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #000000;
+    border-bottom: 10px solid #ECE6C2;
+
+    display: flex;
+}
+.info1{
+    width: 150px;
+    height: 100%;
+}
+.info2{
+    width: 150px;
+    height: 100%;
+    margin-right: 10px;
+}
+.info3{
+    width: 150px;
+    height: 100%;
+}
+.text-aline{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 10px 5px;
+
+}
+
+.header div span{
+    color: white;
+    font-size: 10px;
+}
+
+.main{
+    width: 100%;
+    height: 300px;
+    border-bottom: 10px solid #ECE6C2;
+    display: flex;
+}
+main div:nth-child(1){
+    width: 300px;
+    height: 100%;
+    border-right: 10px solid #ECE6C2;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    padding: 0 0 10px 10px ;
+}
+main div:nth-child(2){
+    width: calc(100% - 300px);
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    padding: 0 0 10px 10px ;
+}
+
+.main__title{
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.footer{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 0 0 10px 10px ;
+    width: 100%;
+    height: 220px;
+
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+}
