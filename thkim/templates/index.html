@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>스크래핑 정보</title>
+  </head>
+  <body>
+    <h1>상품 랭킹 정보</h1>
+    <div id="product-list">
+      {% for item in results %}
+        <p>Rank: {{ item.rank }}</p>
+        <p>Brand Name: {{ item.brand_name }}</p>
+        <p>Product Name: {{ item.product_name }}</p>
+        <p>Price: {{ item.price }}</p>
+        <img src="{{ item.image_url }}" alt="Product Image">
+        {% if item.link %}
+          <p><a href="{{ item.link }}">링크</a></p>
+        {% endif %}
+        <p>---------------</p>
+      {% endfor %}
+    </div>
+  </body>
+</html>
