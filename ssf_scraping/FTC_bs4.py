@@ -32,13 +32,13 @@ product_list = []
 
 for i in range(1, 21):
     brand = items[i-1].find("span", attrs={"class": "brand"}).get_text()
+    url = "https://www.ssfshop.com/" + item_urls[i-1]["href"]
     name = items[i-1].find("span", attrs={"class": "name"}).get_text()
     rank = item_rankings[i-1].h5.get_text()
     price = item_prices[i-1].get_text()
-    url = "https://www.ssfshop.com/" + item_urls[i-1]["href"]
     img = item_img_urls[i-1].a.img["src"]
 
-    product = Product(rank, brand, name, price, url, img)
+    product = Product(rank, url, brand, name, price, img)
     product_list.append(product)
 
 
