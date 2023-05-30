@@ -6,9 +6,13 @@
   <body>
     <h1>스크래핑한 상품 정보</h1>
     <div id="product-list">
-      {% for i in arr %}
-      <p>{{i}}</p>
-      <p>---------------</p>
+      {% for i in pl %}
+        <p>{{i}}</p>  
+        <p>---------------</p>
+      {% endfor %}
+      {% for i in img_urls %}
+        <img src="{{ i }}" alt="Image">
+        <p>---------------</p>
       {% endfor %}
     </div>
   </body>
