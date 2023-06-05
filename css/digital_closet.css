@@ -67,7 +67,7 @@
     display: none; /* Chrome, Safari, Opera*/
 }
 .scroll_wrap{
-    width: 2000px;
+    width: 5000px;
     height: 100%;
     display: flex;
 }
