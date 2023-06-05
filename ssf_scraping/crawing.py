@@ -21,7 +21,7 @@ item_prices = soup.find_all("span", attrs={"class": "price"})
 
 product_list = []
 
-with open("./cards.js", "w", encoding="utf-8") as f:
+with open("./ssf.js", "w", encoding="utf-8") as f:
     ret = []
     
     f.write("const cardData = ")
