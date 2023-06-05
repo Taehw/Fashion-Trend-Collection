@@ -30,7 +30,7 @@ for i, item in enumerate(ranking_items):
         "url": "",
         "name": items_name[i].get_text(strip=True),
         "price": prices[i].get_text(strip=True),
-        "img": images[i + 5]['src']
+        "img": "https:" + images[i + 5]['src']
     }
 
     if i < 7 and thumbnail_list_top:
