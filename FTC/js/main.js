@@ -186,7 +186,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3345274?loc=goods_rank",
         "name": "할로윈 프린트 티셔츠 [그레이]",
         "rank": "1",
-        "price": "68,000원",
+        "price": "정가: 68,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230603/3345274/3345274_16857554697989_125.jpg"
     },
     {
@@ -210,7 +210,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/1498092?loc=goods_rank",
         "name": "커스텀 슬림핏 메시 폴로 셔츠 - 블랙",
         "rank": "4",
-        "price": "169,000원",
+        "price": "정가: 169,000원",
         "img": "https://image.msscdn.net/images/goods_img/20200626/1498092/1498092_2_125.jpg"
     },
     {
@@ -226,7 +226,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3196461?loc=goods_rank",
         "name": "여성 클래식 코튼 피케 릴렉스 핏 센터 백 스트라이프 반소매 티셔츠 - 네이비 / FJS013A00050415",
         "rank": "6",
-        "price": "710,000원375,000원",
+        "price": "정가: 710,000원, 할인가: 375,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230331/3196461/3196461_16855951277990_125.jpg"
     },
     {
@@ -234,7 +234,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3341871?loc=goods_rank",
         "name": "스트라이프 풋볼 티 블랙",
         "rank": "7",
-        "price": "37,400원29,900원",
+        "price": "정가: 37,400원, 할인가: 29,900원",
         "img": "https://image.msscdn.net/images/goods_img/20230601/3341871/3341871_16859266992764_125.jpg"
     },
     {
@@ -242,7 +242,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3183906?loc=goods_rank",
         "name": "남성 앵커 로고 패치 반소매 티셔츠 - 블랙 / JT0061PG0772999 - 블랙 / JT0061PG0772999",
         "rank": "8",
-        "price": "175,000원82,000원",
+        "price": "175,000원, 할인가: 82,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230328/3183906/3183906_16856995453738_125.jpg"
     },
     {
@@ -250,7 +250,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/2690691?loc=goods_rank",
         "name": "무지 머슬핏 반팔 7컬러",
         "rank": "9",
-        "price": "22,000원",
+        "price": "정가: 22,000원",
         "img": "https://image.msscdn.net/images/goods_img/20220801/2690691/2690691_1_125.jpg"
     },
     {
@@ -258,7 +258,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3318785?loc=goods_rank",
         "name": "3D OVAL LOGO CROP T-SHIRTS [BLACK]",
         "rank": "10",
-        "price": "59,000원",
+        "price": "정가: 59,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230523/3318785/3318785_16855123428903_125.png"
     },
     {
@@ -266,7 +266,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/2034137?loc=goods_rank",
         "name": "릴렉스 핏 크루 넥 반팔 티셔츠 2팩",
         "rank": "11",
-        "price": "31,800원",
+        "price": "정가: 31,800원",
         "img": "https://image.msscdn.net/images/goods_img/20210719/2034137/2034137_1_125.jpg"
     },
     {
@@ -274,7 +274,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/2784043?loc=goods_rank",
         "name": "남성 4 스티치 풀오버 니트 - 블랙 / SI1HA0012S17781900F",
         "rank": "12",
-        "price": "1,260,000원504,000원",
+        "price": "정가: 1,260,000원, 할인가: 504,000원",
         "img": "https://image.msscdn.net/images/goods_img/20220913/2784043/2784043_1_125.jpg"
     },
     {
@@ -282,7 +282,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3187851?loc=goods_rank",
         "name": "[2PACK] 쿨 니트 카라 OR 라운드 니트 세트",
         "rank": "13",
-        "price": "110,000원49,900원",
+        "price": "정가: 110,000원, 할인가: 49,900원",
         "img": "https://image.msscdn.net/images/goods_img/20230329/3187851/3187851_16800852325781_125.jpg"
     },
     {
@@ -290,7 +290,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/1848166?loc=goods_rank",
         "name": "에센셜 쿨 코튼 2-PACK 티셔츠 블랙",
         "rank": "14",
-        "price": "49,000원34,300원",
+        "price": "정가: 49,000원 할인가: 34,300원",
         "img": "https://image.msscdn.net/images/goods_img/20210316/1848166/1848166_16835226072455_125.jpg"
     },
     {
@@ -298,7 +298,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3199437?loc=goods_rank",
         "name": "여성 티나 로고 맨투맨 - 네이비 / COEZDF27561IAJ",
         "rank": "15",
-        "price": "319,000원110,000원",
+        "price": "정가: 319,000원, 할인가: 110,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230331/3199437/3199437_16854989613835_125.jpg"
     },
     {
@@ -306,7 +306,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/2540678?loc=goods_rank",
         "name": "LIFE IS TEE_SURF RIDE TEE_CHARCOAL",
         "rank": "16",
-        "price": "45,000원38,250원",
+        "price": "정가: 45,000원, 할인가: 38,250원",
         "img": "https://image.msscdn.net/images/goods_img/20220504/2540678/2540678_16844804590988_125.jpg"
     },
     {
@@ -314,7 +314,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3196740?loc=goods_rank",
         "name": "여성 미디움 웨이트 저지 엔지니어드 4 바 오버사이즈 티셔츠 - 네이비 / FJS066A06221415",
         "rank": "17",
-        "price": "990,000원523,000원",
+        "price": "정가: 990,000원, 할인가: 523,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230331/3196740/3196740_16855949716486_125.jpg"
     },
     {
@@ -322,7 +322,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/3200626?loc=goods_rank",
         "name": "013502 코튼 피케 폴로 반팔 티셔츠_23color",
         "rank": "18",
-        "price": "24,800원22,300원",
+        "price": "정가: 24,800원, 할인가: 22,300원",
         "img": "https://image.msscdn.net/images/goods_img/20230403/3200626/3200626_16804858896645_125.png"
     },
     {
@@ -330,7 +330,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/2575342?loc=goods_rank",
         "name": "케이블 카라 반팔 니트 - 6 COLOR",
         "rank": "19",
-        "price": "59,000원39,900원",
+        "price": "정가: 59,000원 할인가: 39,900원",
         "img": "https://image.msscdn.net/images/goods_img/20220523/2575342/2575342_16804878956538_125.jpg"
     },
     {
@@ -338,7 +338,7 @@ const mt_cardData = [
         "url": "https://www.musinsa.com/app/goods/1031260?loc=goods_rank",
         "name": "23S/S 오버핏 피케티셔츠 (블랙)",
         "rank": "20",
-        "price": "42,000원39,900원",
+        "price": "정가: 42,000원 할인가: 39,900원",
         "img": "https://image.msscdn.net/images/goods_img/20190430/1031260/1031260_16801554495460_125.jpg"
     }
 ]
@@ -349,7 +349,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3141395?loc=goods_rank",
         "name": "[패키지][써머ver] 쿨 나일론 스트링 팬츠",
         "rank": "1",
-        "price": "73,900원59,900원",
+        "price": "정가: 73,900원, 할인가: 59,900원",
         "img": "https://image.msscdn.net/images/goods_img/20230310/3141395/3141395_16831608210577_125.jpg"
     },
     {
@@ -357,7 +357,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1924274?loc=goods_rank",
         "name": "린넨 라이크 세미 와이드 밴딩 팬츠 세트",
         "rank": "2",
-        "price": "66,000원49,900원",
+        "price": "정가: 66,000원, 할인가: 49,900원",
         "img": "https://image.msscdn.net/images/goods_img/20210428/1924274/1924274_16807584621436_125.jpg"
     },
     {
@@ -365,7 +365,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3262223?loc=goods_rank",
         "name": "BB 트랙 팬츠 - 블랙 / IK9152",
         "rank": "3",
-        "price": "109,000원",
+        "price": "정가: 109,000원",
         "img": "https://image.msscdn.net/images/goods_img/20230426/3262223/3262223_16830139888417_125.jpg"
     },
     {
@@ -373,7 +373,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1926048?loc=goods_rank",
         "name": "Deep One Tuck Sweat Shorts [Grey]",
         "rank": "4",
-        "price": "32,000원28,800원",
+        "price": "정가: 32,000원, 할인가: 28,800원",
         "img": "https://image.msscdn.net/images/goods_img/20210428/1926048/1926048_1_125.jpg"
     },
     {
@@ -381,7 +381,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1551840?loc=goods_rank",
         "name": "Deep One Tuck Sweat Pants [Grey]",
         "rank": "5",
-        "price": "39,000원",
+        "price": "정가: 39,000원",
         "img": "https://image.msscdn.net/images/goods_img/20200818/1551840/1551840_1_125.jpg"
     },
     {
@@ -389,7 +389,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3109089?loc=goods_rank",
         "name": "real wide cargo pants BLACK",
         "rank": "6",
-        "price": "64,000원23,040원",
+        "price": "정가: 64,000원, 할인가: 23,040원",
         "img": "https://image.msscdn.net/images/goods_img/20230227/3109089/3109089_16777223616742_125.jpg"
     },
     {
@@ -397,7 +397,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3129951?loc=goods_rank",
         "name": "[여름 경량소재] 와이드 스트링 CN 교직물 카고 팬츠 카키",
         "rank": "7",
-        "price": "49,800원39,800원",
+        "price": "정가: 49,800원, 할인가: 39,800원",
         "img": "https://image.msscdn.net/images/goods_img/20230307/3129951/3129951_16826501525028_125.jpg"
     },
     {
@@ -405,7 +405,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/2789111?loc=goods_rank",
         "name": "XP127 셔링 카고 팬츠 (KHAKI)",
         "rank": "8",
-        "price": "99,000원84,150원",
+        "price": "정가: 99,000원, 할인가: 84,150원",
         "img": "https://image.msscdn.net/images/goods_img/20220914/2789111/2789111_16825652792501_125.jpg"
     },
     {
@@ -413,7 +413,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/2592084?loc=goods_rank",
         "name": "린넨 데님 세미 와이드 밴딩 팬츠 - 3 COLOR",
         "rank": "9",
-        "price": "59,000원39,900원",
+        "price": "정가: 59,000원, 할인가: 39,900원",
         "img": "https://image.msscdn.net/images/goods_img/20220531/2592084/2592084_16769432132993_125.jpg"
     },
     {
@@ -421,7 +421,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3314689?loc=goods_rank",
         "name": "[2PACK]쿨 썸머 크로스턱 와이드 슬랙스[4colors]",
         "rank": "10",
-        "price": "115,000원42,500원",
+        "price": "정가: 115,000원, 할인가: 42,500원",
         "img": "https://image.msscdn.net/images/goods_img/20230522/3314689/3314689_16847409870850_125.jpg"
     },
     {
@@ -429,7 +429,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1989228?loc=goods_rank",
         "name": "[쿨탠다드] 와이드 히든 밴딩 슬랙스 [블랙]",
         "rank": "11",
-        "price": "43,900원37,290원",
+        "price": "정가: 43,900원, 할인가: 37,290원",
         "img": "https://image.msscdn.net/images/goods_img/20210609/1989228/1989228_4_125.jpg"
     },
     {
@@ -437,7 +437,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/2112061?loc=goods_rank",
         "name": "원턱 와이드 스웨트팬츠 블랙",
         "rank": "12",
-        "price": "52,000원36,400원",
+        "price": "정가: 52,000원, 할인가: 36,400원",
         "img": "https://image.msscdn.net/images/goods_img/20210906/2112061/2112061_1_125.jpg"
     },
     {
@@ -445,7 +445,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/732703?loc=goods_rank",
         "name": "루즈테이퍼드 팬츠 Olive",
         "rank": "13",
-        "price": "129,000원122,600원",
+        "price": "129,000원, 할인가: 122,600원",
         "img": "https://image.msscdn.net/images/goods_img/20180309/732703/732703_16807554066640_125.jpg"
     },
     {
@@ -453,7 +453,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3043508?loc=goods_rank",
         "name": "XP138 파스텔 데님 카고 팬츠 (PINK)",
         "rank": "14",
-        "price": "89,000원75,650원",
+        "price": "정가: 89,000원, 할인가: 75,650원",
         "img": "https://image.msscdn.net/images/goods_img/20230127/3043508/3043508_16756679025104_125.jpg"
     },
     {
@@ -461,7 +461,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3316986?loc=goods_rank",
         "name": "[2PACK] SL01 섬머 데님 와이드 팬츠 (7 COLOURS)",
         "rank": "15",
-        "price": "98,000원68,600원",
+        "price": "정가: 98,000원, 할인가: 68,600원",
         "img": "https://image.msscdn.net/images/goods_img/20230523/3316986/3316986_16859325333777_125.jpg"
     },
     {
@@ -469,7 +469,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3134728?loc=goods_rank",
         "name": "[쿨탠다드] 우먼즈 세미 벌룬 히든 밴딩 슬랙스 [블랙]",
         "rank": "16",
-        "price": "47,900원",
+        "price": "정가: 47,900원",
         "img": "https://image.msscdn.net/images/goods_img/20230309/3134728/3134728_16817914268780_125.jpg"
     },
     {
@@ -477,7 +477,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/3153802?loc=goods_rank",
         "name": "쿨링 딥 턱 와이드 밴딩 팬츠 [블랙]",
         "rank": "17",
-        "price": "43,900원",
+        "price": "정가: 43,900원",
         "img": "https://image.msscdn.net/images/goods_img/20230316/3153802/3153802_16831020519373_125.jpg"
     },
     {
@@ -485,7 +485,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/2441851?loc=goods_rank",
         "name": "투턱 버뮤다 에드 데님 쇼츠_4 COLOR",
         "rank": "18",
-        "price": "41,900원39,900원",
+        "price": "정가: 41,900원, 할인가: 39,900원",
         "img": "https://image.msscdn.net/images/goods_img/20220324/2441851/2441851_16806896291904_125.jpg"
     },
     {
@@ -493,7 +493,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1926034?loc=goods_rank",
         "name": "Deep One Tuck Sweat Shorts [Black]",
         "rank": "19",
-        "price": "32,000원",
+        "price": "정가: 32,000원",
         "img": "https://image.msscdn.net/images/goods_img/20210428/1926034/1926034_1_125.jpg"
     },
     {
@@ -501,7 +501,7 @@ const mp_cardData = [
         "url": "https://www.musinsa.com/app/goods/1446775?loc=goods_rank",
         "name": "[패키지] 미니멀 트레이닝 essential 반바지 (롱 기장 버전 추가)",
         "rank": "20",
-        "price": "44,800원33,900원",
+        "price": "정가: 44,800원, 할인가: 33,900원",
         "img": "https://image.msscdn.net/images/goods_img/20200514/1446775/1446775_16792886713712_125.jpg"
     }
 ]
@@ -512,7 +512,7 @@ const w_cardData = [
         "brand": "ISLAND SLIPPER",
         "url": "https://www.wconcept.co.kr/Product/301664372?rccode=pc_topseller",
         "name": "PT203SL-TPTN",
-        "price": "125,685",
+        "price": "정가: 125,685원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/72/301664372.jpg"
     },
     {
@@ -520,7 +520,7 @@ const w_cardData = [
         "brand": "ISLAND SLIPPER",
         "url": "https://www.wconcept.co.kr/Product/301664370?rccode=pc_topseller",
         "name": "PT203SL-PNCG",
-        "price": "125,685",
+        "price": "정가: 125,685원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/70/301664370_HD54319.jpg"
     },
     {
@@ -528,7 +528,7 @@ const w_cardData = [
         "brand": "NEWBALANCE",
         "url": "https://www.wconcept.co.kr/Product/301563996?rccode=pc_topseller",
         "name": "530 스니커즈 MR530KA",
-        "price": "199,000",
+        "price": "정가: 199,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/96/301563996_XJ82310.jpg"
     },
     {
@@ -536,7 +536,7 @@ const w_cardData = [
         "brand": "ONITSUKA TIGER",
         "url": "https://www.wconcept.co.kr/Product/301824533?rccode=pc_topseller",
         "name": "멕시코 66 VIN SD 1183C015_101",
-        "price": "220,000",
+        "price": "정가: 220,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/33/301824533.jpg?RS=384"
     },
     {
@@ -544,7 +544,7 @@ const w_cardData = [
         "brand": "CPGN",
         "url": "https://www.wconcept.co.kr/Product/301654812?rccode=pc_topseller",
         "name": "Dont Cry Teddy 피그먼트 반팔티 스모크블랙",
-        "price": "31,680",
+        "price": "정가: 31,680원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/12/301654812.jpg?RS=384"
     },
     {
@@ -552,7 +552,7 @@ const w_cardData = [
         "brand": "NEWBALANCE",
         "url": "https://www.wconcept.co.kr/Product/301464696?rccode=pc_topseller",
         "name": "[뉴발란스] 530 스니커즈 MR530SG",
-        "price": "169,000",
+        "price": "정가: 169,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/96/301464696_TV41639.jpg?RS=384"
     },
     {
@@ -560,7 +560,7 @@ const w_cardData = [
         "brand": "MINIMAL PROJECT",
         "url": "https://www.wconcept.co.kr/Product/300984192?rccode=pc_topseller",
         "name": "로버스트 헤비 오버핏 반팔티셔츠 MST127 / 8color",
-        "price": "19,800",
+        "price": "정가: 19,800원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/92/300984192.jpg?RS=384"
     },
     {
@@ -568,7 +568,7 @@ const w_cardData = [
         "brand": "47brand",
         "url": "https://www.wconcept.co.kr/Product/302246355?rccode=pc_topseller",
         "name": "MLB모자 47브랜드 LA다저스 스몰로고 볼캡",
-        "price": "26,010",
+        "price": "정가: 26,010원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/55/302246355.jpg?RS=300"
     },
     {
@@ -576,7 +576,7 @@ const w_cardData = [
         "brand": "RAWROW",
         "url": "https://www.wconcept.co.kr/Product/302701613?rccode=pc_topseller",
         "name": "스트링 백팩 750 ep.2 Black",
-        "price": "82,863",
+        "price": "정가: 82,863원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/13/302701613.jpg?RS=300"
     },
     {
@@ -584,7 +584,7 @@ const w_cardData = [
         "brand": "NIKE",
         "url": "https://www.wconcept.co.kr/Product/301563627?rccode=pc_topseller",
         "name": "[DX5025-100] U NK NSW EVERYDAY ESSENTIAL CR",
-        "price": "12,500",
+        "price": "정가: 12,500원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/27/301563627.jpg?RS=300"
     },
     {
@@ -592,7 +592,7 @@ const w_cardData = [
         "brand": "MAC MOC",
         "url": "https://www.wconcept.co.kr/Product/302874091?rccode=pc_topseller",
         "name": "테라 남여공용 글레디에이터 피셔맨 샌들 [Tera 5Color 5Cm]",
-        "price": "64,400",
+        "price": "정가: 64,400원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/91/302874091_UD53708.jpg?RS=300"
     },
     {
@@ -600,7 +600,7 @@ const w_cardData = [
         "brand": "FLUKE",
         "url": "https://www.wconcept.co.kr/Product/301221211?rccode=pc_topseller",
         "name": "플루크 캠퍼밴 투어 피그먼트 반팔티셔츠 FST710 / 4color",
-        "price": "21,800",
+        "price": "정가: 21,800원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/11/301221211.jpg?RS=300"
     },
     {
@@ -608,7 +608,7 @@ const w_cardData = [
         "brand": "NIKE",
         "url": "https://www.wconcept.co.kr/Product/301615738?rccode=pc_topseller",
         "name": "[DX5089-103] U NK NSW EVERYDAY ESSENTIAL CR",
-        "price": "11,000",
+        "price": "정가: 11,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/38/301615738.jpg?RS=300"
     },
     {
@@ -616,7 +616,7 @@ const w_cardData = [
         "brand": "MIND BRIDGE",
         "url": "https://www.wconcept.co.kr/Product/302522439?rccode=pc_topseller",
         "name": "[쿨]테이퍼드쿨맥스밴딩팬츠 MXPT3111",
-        "price": "62,910",
+        "price": "정가: 62,910원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/39/302522439_GG94486.jpg?RS=300"
     },
     {
@@ -624,7 +624,7 @@ const w_cardData = [
         "brand": "ONITSUKA TIGER",
         "url": "https://www.wconcept.co.kr/Product/301824535?rccode=pc_topseller",
         "name": "멕시코 66 VIN SD 1183C015_200",
-        "price": "220,000",
+        "price": "정가: 220,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/35/301824535.jpg?RS=300"
     },
     {
@@ -632,7 +632,7 @@ const w_cardData = [
         "brand": "OOFOS",
         "url": "https://www.wconcept.co.kr/Product/301289213?rccode=pc_topseller",
         "name": "OOAHH BLACK - 슬리퍼 블랙",
-        "price": "69,000",
+        "price": "정가: 69,000원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/13/301289213.jpg?RS=300"
     },
     {
@@ -640,7 +640,7 @@ const w_cardData = [
         "brand": "ISLAND SLIPPER",
         "url": "https://www.wconcept.co.kr/Product/301664377?rccode=pc_topseller",
         "name": "PT203-CCS",
-        "price": "125,685",
+        "price": "정가: 125,685원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/77/301664377.jpg?RS=300"
     },
     {
@@ -648,7 +648,7 @@ const w_cardData = [
         "brand": "Josepht",
         "url": "https://www.wconcept.co.kr/Product/300815500?rccode=pc_topseller",
         "name": "Smith",
-        "price": "94,050",
+        "price": "정가: 94,050원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/00/300815500.jpg?RS=300"
     },
     {
@@ -656,7 +656,7 @@ const w_cardData = [
         "brand": "Moderment",
         "url": "https://www.wconcept.co.kr/Product/300995966?rccode=pc_topseller",
         "name": "[세트패키지] 유틸리티 하프팬츠 (6color)",
-        "price": "39,510",
+        "price": "정가: 39,510원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/66/300995966_GE79109.jpg?RS=300"
     },
     {
@@ -664,7 +664,7 @@ const w_cardData = [
         "brand": "BATTENWEAR",
         "url": "https://www.wconcept.co.kr/Product/302200937?rccode=pc_topseller",
         "name": "Scout Anorak - Green",
-        "price": "344,500",
+        "price": "정가: 344,500원",
         "img": "https://product-image.wconcept.co.kr/productimg/image/img1/37/302200937.jpg?RS=300"
     },
 ]

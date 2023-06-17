@@ -1,3 +1,5 @@
+
+
 /* list body start */
 #list_body{
     width: 100%;
@@ -13,7 +15,7 @@
     height: 100px;
     border-top: 1px solid white;
     border-bottom: 1px solid white;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     font-size: 50px;
     color: white;
     line-height: 95px;
@@ -28,7 +30,7 @@
 }
 #to_main_btn{
     font-size: 20px;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     color: white;
     font-style: italic;
     cursor: pointer;
@@ -45,7 +47,7 @@
     width: 200px;
     height: 100%;
     font-size: 20px;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     color: white;
     display: flex;
     align-items: center;
@@ -98,7 +100,7 @@
     border-radius: 50%;
     display: flex;
     justify-content: center;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     font-size: 30px;
     font-weight: 500;
     line-height: 50px;
@@ -126,13 +128,13 @@
 .top_3_rank{
     width: 300px;
     font-size: 40px;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     font-weight: 900;
 }
 .top_3_title{
     width: 300px;
     color: black;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     font-size: 20px;
     font-weight: 900;
 }
@@ -169,7 +171,7 @@
 }
 .top_sml_text, .top_right_sml_text{
     width: 150px;
-    font-family: 'S-CoreDream-3Light';
+    font-family: 'omyu_pretty';
     font-size: 15px;
 }
 .top_right_sml{
