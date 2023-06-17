@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./css/reset.css" rel="stylesheet">
+    <link href="./css/main.css" rel="stylesheet">
+    <link href="./css/list.css" rel="stylesheet">
+    <link href="./css/detail.css" rel="stylesheet">
+    <title>FASHION TREND COLLECTION</title>
+</head>
+
+<body> 
+    <!-- main page -->
+    <div id="main_body">
+        <!-- 화면 왼쪽 섹션 -->
+        <div id="left_section">
+            <div id="first_box" class="inner_section">
+                <div id="first_box_text">
+                    <span>Fashion</span>
+                    <span>Trend</span>
+                    <span>Collection</span>
+                    <div class="ver_line"></div>
+                    <p>Welcome to our <br />FASHION TREND COLLECTION!</p>
+                </div>
+                <div id="first_box_img">
+                    <script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+                    <lord-icon src="https://cdn.lordicon.com/kdruzgxz.json" trigger="hover"
+                        colors="primary:#121331,secondary:#E44F24" style="width:250px;height:250px">
+                    </lord-icon>
+                </div>
+            </div>
+            <div class="inner_section">
+                <div id="sky_view" class="sml_section">
+                    <div id="sky_wrap"></div>
+                    <div id="moon"></div>
+                </div>
+                <div id="info" class="sml_section">
+                </div>
+            </div>
+        </div>
+        <!-- 화면 오른쪽 섹션 -->
+        <div id="right_section">
+            <div class="inner_section">
+                <div class="sml_section"></div>
+                <div id="menu" class="sml_section">
+                    <div onclick="toListPage(0)" class="inner_menu">Musinsa</div>
+                    <div onclick="toListPage(1)" class="inner_menu">W_Concept</div>
+                    <div onclick="toListPage(2)" class="inner_menu">SSF_Shop</div>
+                </div>
+            </div>
+            <div class="inner_section">
+                <div id="second_box_img"></div>
+                <div class="hor_line"></div>
+                <div id="second_box_text">
+                    <span>Fashion Trend Collection:</span>
+                    A platform that compiles rankings of diverse fashion shopping centers and seamlessly directs you to
+                    the product's purchase page of your choice.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- clothes list page -->
+    <div id="list_body">
+        <div id="to_main_btn_wrap">
+            <div onclick="toMainPage()" id="to_main_btn">&lt; Back to Main</div>
+        </div>
+        <div id="list_title"></div>
+        <!-- Musinsa 클릭 시 -->
+        <div id="musinsa_tab">
+            <div onclick="toListPage(0)" class="inner_tab">TOP</div>
+            <div onclick="toListPage(4)" class="inner_tab">PANTS</div>
+        </div>
+        <div id="rank_area_view">
+            <div id="rank_area_wrap">
+                <div class="rank_area">
+                    <div onclick="toDetailPage(0)" class="top_3">
+                        <div class="top_3_img_wrap"></div>
+                        <div class="top_3_rank">1st.</div>
+                        <div class="top_3_title">This is test sentence.</div>
+                    </div>
+                    <div onclick="toDetailPage(1)" class="top_3">
+                        <div class="top_3_img_wrap"></div>
+                        <div class="top_3_rank">2nd.</div>
+                        <div class="top_3_title">This is test sentence.</div>
+                    </div>
+                    <div onclick="toDetailPage(2)" class="top_3">
+                        <div class="top_3_img_wrap"></div>
+                        <div class="top_3_rank">3rd.</div>
+                        <div class="top_3_title">This is test sentence.</div>
+                    </div>
+                    <div class="top_4_to_7">
+                        <div class="top_4_5">
+                            <div onclick="toDetailPage(3)" class="top_sml">
+                                <div id="0" class="top_sml_img"></div>
+                                <div class="top_sml_text">This is test sentence.</div>
+                            </div>
+                            <div onclick="toDetailPage(4)" class="top_sml">
+                                <div id="1" class="top_sml_img"></div>
+                                <div class="top_sml_text">This is test sentence.</div>
+                            </div>
+                        </div>
+                        <div class="top_6_7">
+                            <div onclick="toDetailPage(5)" class="top_sml">
+                                <div id="2" class="top_sml_img"></div>
+                                <div class="top_sml_text">This is test sentence.</div>
+                            </div>
+                            <div onclick="toDetailPage(6)" class="top_sml">
+                                <div id="3" class="top_sml_img"></div>
+                                <div class="top_sml_text">This is test sentence.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="rank_area">
+                    <div class="top_8_to_20">
+                        <!-- <div class="top_right_sml">
+                            <div class="top_right_sml_img"></div>
+                            <div class="top_right_sml_text">This is test sentence.</div>
+                        </div> -->
+                    </div>
+                    <div class="top_8_to_20"></div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel_btn_wrap">
+            <div onclick="carousel_mv(0)" id="left_btn" class="carousel_btn">&lt;</div>
+            <div onclick="carousel_mv(1)" id="right_btn" class="carousel_btn">&gt;</div>
+        </div>
+    </div>
+    <!-- clothes detail page -->
+    <div id="detail_body">
+        <div id="to_main_btn_wrap_">
+            <div onclick="toListPage(-1)" id="to_main_btn_">&lt; Back to Main</div>
+        </div>
+        <div id="list_title">This is test sentence.</div> 
+        <div id="detail_context">
+            <div id="detail_img"></div>
+            <div id="detail_text_wrap">
+                <div id="detail_text_brand">BRAND CONTENT</div>
+                <div id="detail_text_title">TITLE CONTENT</div>
+                <div id="detail_text_price">$100,000,000</div>
+                <div id="detail_text_url">판매 사이트 이동</div>
+            </div>
+        </div>
+    </div>
+    <script src="./js/main.js" rel="text/javascript"></script>
+</body>
+
+</html>

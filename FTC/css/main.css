@@ -1,0 +1,149 @@
+/* main body start */
+#main_body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    /* -------------------------- */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#left_section, #right_section{
+    width: 45%;
+    height: 95%;
+}
+.inner_section{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+}
+.sml_section{
+    width: 48%;
+    height: 95%;
+}
+/* main body end */
+/* detail box start */
+#first_box{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+}
+#first_box_text, #second_box_text{
+    width: 60%;
+    font-family: 'S-CoreDream-3Light';
+    font-size: 55px;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px 0;
+}
+#second_box_text{
+    height: 100%;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+}
+#second_box_text>span{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.hor_line{
+    width: 1px;
+    height: 95%;
+    background-color: white;
+    margin: 0 15px;
+}
+#first_box_text>span{
+    width: 100%;
+    padding: 0 15px;
+}
+#first_box_text>p{
+    width: 100%;
+    font-family: 'S-CoreDream-3Light';
+    font-size: 20px;
+    font-weight: 500;
+    padding: 5px 15px;
+}
+.ver_line{
+    width: 95%;
+    height: 2px;
+    background-color: rgb(32, 32, 32);
+    margin: 10px 0;
+}
+#first_box_img, #second_box_img{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#second_box_img{
+    width: 38%;
+    height: 98%;
+    border-radius: 10px;
+    background-image: url("./../img/closet.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* detail box end */
+/* sky view start */
+#sky_view{
+    background-color: #6C433D;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#sky_wrap{
+    width: 100%;
+    height: 100%;
+    background-image: url("./../img/cloud.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 15;
+}
+#moon{
+    width: 120px;
+    height: 120px;
+    background-image: url("./../img/moon.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    top: -200px;
+    left: 20px;
+    transition: 0.5s;
+    transition-timing-function: cubic-bezier(0.3, 0.6, 0.5, 0.96);
+}
+#sky_view:hover #moon{
+    top: -300px;
+}
+/* sky view end */
+/* menu start */
+#menu{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px 0;
+}
+.inner_menu{
+    width: 100%;
+    height: 70px;
+    font-family: 'S-CoreDream-3Light';
+    font-size: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+.inner_menu:hover{
+    background-color: white;
+    font-weight: 700;
+    color: black;
+}
+/* menu end */

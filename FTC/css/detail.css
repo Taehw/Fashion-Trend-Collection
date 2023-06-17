@@ -1,0 +1,84 @@
+/* detail body start */
+#detail_body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    /* -------------------------- */
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+/* detail body end */
+#to_main_btn_wrap_{
+    width: 95%;
+    height: 50px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+#to_main_btn_{
+    font-size: 20px;
+    font-family: 'S-CoreDream-3Light';
+    color: white;
+    font-style: italic;
+    cursor: pointer;
+}
+#item_title{
+    width: 95%;
+    height: 100px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    font-family: 'S-CoreDream-3Light';
+    font-size: 50px;
+    color: white;
+    line-height: 95px;
+    margin: 15px 0;
+}
+#detail_context{
+    width: 95%;
+    height: 500px;
+    display: flex;
+}
+#detail_img{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#detail_text_wrap{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#detail_text_brand, #detail_text_title, #detail_text_price{
+    color: white;
+    font-family: 'S-CoreDream-3Light';
+    padding: 5px 15px;
+}
+#detail_text_brand{
+    font-style: italic;
+    margin-top: 10px;
+    font-size: 20px;
+}
+#detail_text_title{
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+}
+#detail_text_price{
+    font-size: 20px;
+}
+#detail_text_url{
+    width: 200px;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 15px;
+    cursor: pointer;
+    font-family: 'S-CoreDream-3Light';
+}
